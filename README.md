@@ -6,7 +6,7 @@
 <body>
 <h1> <strong> HENNA </strong> </h1>
 
-<h2> What is it? </h2>
+<h2 style=color🟤> What is it? </h2>
 <p> Henna, also called <i> mehndi </i>, is a natural dye made from the leaves of the henna plant. It is used to create patterns on the skin, especially on hands and feet. When it dries, it leaves a reddish-brown stain. Mehndi is enjoyed around the world as both art and tradition.</p>
 
 <h2> History </h2>
