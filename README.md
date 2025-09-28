@@ -9,7 +9,7 @@
 <h2 style="color:brown"> What is it? </h2>
 <p> Henna, also called <i> mehndi </i>, is a natural dye made from the leaves of the henna plant. It is used to create patterns on the skin, especially on hands and feet. When it dries, it leaves a reddish-brown stain. Mehndi is enjoyed around the world as both art and tradition.</p>
 
-<img src="file:///C:/Users/hadia/OneDrive/Documents/henna%20image.jpg.jpg" alt="henna photo" width="100">
+<img src="file:///C:/Users/hadia/OneDrive/Documents/henna%20image.jpg" alt="henna photo" width="100">
   
 <h2 style="color:brown"> History </h2>
 <p> Henna has been used for thousands of years in South Asia, the Middle East, and North Africa. In the past, it was used for decoration, cooling the skin, and even as simple medicine. Now it has become a part of celebrations, where people make designs during weddings and festivals. Henna’s long history shows how one plant has shaped culture and beauty across many places. 
