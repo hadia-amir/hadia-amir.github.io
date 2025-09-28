@@ -11,7 +11,8 @@
 
 <h2 style="color:brown"> History </h2>
 <p> Henna has been used for thousands of years in South Asia, the Middle East, and North Africa. In the past, it was used for decoration, cooling the skin, and even as simple medicine. Now it has become a part of celebrations, where people make designs during weddings and festivals. Henna’s long history shows how one plant has shaped culture and beauty across many places. 
-  
+
+<img src="![other henna image jpg](https://github.com/user-attachments/assets/a117090d-db56-4fc6-a8ae-aa465aaf4be0)" width="100">
 <p> Mehndi is very important in weddings, Eid, Diwali, and other celebrations. It is seen as a symbol of happiness, blessings, and good luck. Brides often have detailed designs that cover their hands and arms. Applying mehndi is also a social event where family and friends gather, talk, and celebrate together. </p>
 
 <h2 style="color:brown"> Why I like it? </h2>
