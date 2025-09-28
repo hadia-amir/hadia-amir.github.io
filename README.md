@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<title> MEHNDI </title>
+<title> <strong> MEHNDI </strong> </title>
 </head>
 <body>
 <h1> <strong> HENNA </strong> </h1>
