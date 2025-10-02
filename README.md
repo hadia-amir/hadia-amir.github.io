@@ -21,6 +21,6 @@
 <h2 style="color:brown"> Why I like it? </h2>
 <p> I enjoy henna because it is creative and relaxing. Making patterns with the cone feels peaceful, and I love seeing how the designs turn into beautiful stains on the skin. It is a fun way to share art with friends and family during special occasions. It allows me to use my creativity and passion for art in something that is culturally significant and close to my heart, while also giving me complete freedom of what I want to create. </p> 
 
-<h3> Want to learn more? </h3>
-<a href="https://navymoney.github.io/" style="font size:40px"> CLICK HERE </a>
+<h3> Learn more with Navya Manni! </h3>
+<a href="https://navymoney.github.io/" style="font size:40px"> CLICK HERE TO VISIT </a>
 </html>
