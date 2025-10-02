@@ -23,4 +23,4 @@
 
 <h3> Learn more with Navya Manni! </h3>
 <a href="https://navymoney.github.io/" style="font size:40px"> CLICK HERE TO VISIT </a>
-</html>
+
