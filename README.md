@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> <strong> MEHNDI </strong> </title>
+<title>  MEHNDI </title>
 </head>
 <body>
 <h1> <strong> HENNA </strong> </h1>
